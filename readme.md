@@ -1,8 +1,11 @@
 # Swisscovery Bluff
+Autor: Verein "Arbeitsgruppe Informationskompetenz an Schweizer Hochschulen"
 
 ## Spielidee
 
-...
+Schätzen, raten, bluffen - Nur ein/vertrauenswürdige/rochstapler/innen kann fleissig Swisscovery-Taler sammeln. 
+
+Swisscovery Bluff lädt dazu ein, die Suchfunktionen von Swisscovery spielerisch zu entdecken. Das schnelle und gesellige Schätzspiel kann auch jederzeit mit eignen Schätzfragen beliebig erweitert werden.
 
 ## Lizenz
 
